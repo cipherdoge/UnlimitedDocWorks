@@ -1,3 +1,5 @@
+![Do you have enough Docs in store?](public/ubw.jpg)
+
 # UnlimitedDocWorks
 
 **UnlimitedDocWorks** is a Retrieval-Augmented Generation (RAG) system designed to process both unstructured documents and structured CSV data. It enables intelligent querying across diverse data sources, using state-of-the-art language models and orchestration tools.
