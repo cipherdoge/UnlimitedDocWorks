@@ -10,7 +10,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 import requests
 
 CLAUDE_API_URL = "https://quchnti6xu7yzw7hfzt5yjqtvi0kafsq.lambda-url.eu-central-1.on.aws/"
-CLAUDE_API_KEY = "syn-09df94e0-99be-4056-a7cc-53e30a9a00f2"
+CLAUDE_API_KEY = ""
 
 def query_claude(prompt: str) -> dict:
     headers = {"Content-Type": "application/json"}
