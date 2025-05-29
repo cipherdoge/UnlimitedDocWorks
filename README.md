@@ -50,6 +50,7 @@ Install the required Node.js and Python dependencies from the project root:
 ```bash
 npm install
 pip install -r requirements.txt
+Put api key in main_pipe in UnlimitedDocWorks folder
 ```
 
 ## Running the Application
