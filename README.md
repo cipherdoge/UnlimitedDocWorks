@@ -35,12 +35,17 @@ Access the required assets from the following Google Drive link and download bot
 
 [Google Drive – Project Files](https://drive.google.com/drive/folders/1-R7VIQaWKtpQAvBFB7_K44P5iaxx9i-j?usp=drive_link)
 
-### 3. Place the SQLite File
+### 3. Place the SQLite File and the archive folder
 
 Move the downloaded `.sqlite` file into the following directory:
 
 ```
 UnlimitedDocWorks/sqlite_store/
+```
+
+And the downloaded archive folder into :
+```
+UnlimitedDocWorks/
 ```
 
 ### 4. Install Dependencies
