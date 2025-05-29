@@ -1,6 +1,5 @@
-![Do you have enough Docs in store?]()
 <p align="center">
-  <img src="public/ubw.jpg" alt="UnlimitedDocWorks Banner" width="600"/>
+  <img src="public/ubw.jpg" alt="UnlimitedDocWorks Banner" width="1000"/>
   <br>
   <em>Do you have enough docs in store?</em>
 </p>
